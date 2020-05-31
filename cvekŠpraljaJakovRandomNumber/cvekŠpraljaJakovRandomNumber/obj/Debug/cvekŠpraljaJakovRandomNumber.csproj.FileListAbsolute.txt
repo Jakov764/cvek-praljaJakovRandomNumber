@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovRandomNumber\cvekŠpraljaJakovRandomNumber\bin\Debug\cvekŠpraljaJakovRandomNumber.exe.config
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovRandomNumber\cvekŠpraljaJakovRandomNumber\bin\Debug\cvekŠpraljaJakovRandomNumber.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovRandomNumber\cvekŠpraljaJakovRandomNumber\bin\Debug\cvekŠpraljaJakovRandomNumber.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovRandomNumber\cvekŠpraljaJakovRandomNumber\obj\Debug\cvekŠpraljaJakovRandomNumber.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovRandomNumber\cvekŠpraljaJakovRandomNumber\obj\Debug\cvekŠpraljaJakovRandomNumber.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovRandomNumber\cvekŠpraljaJakovRandomNumber\obj\Debug\cvekŠpraljaJakovRandomNumber.csprojAssemblyReference.cache
